@@ -101,7 +101,7 @@ Car_Evaluation_decision_tree_scratch/
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Car_Evaluation_decision_tree_scratch.git
+git clone https://github.com/Dulsaraabeybandara/Car_Evaluation_decision_tree_scratch.git
 ```
 
 2. Navigate to the project directory:
