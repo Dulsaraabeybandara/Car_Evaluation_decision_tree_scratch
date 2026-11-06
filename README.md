@@ -143,4 +143,7 @@ Through this project, I aim to strengthen my understanding of:
 
 ---
 
-**This project is part of my hands-on journey in learning Machine Learning by implementing algorithms from scratch.**
+## Author
+
+**Dulsara Abeybandara**
+GitHub: [Dulsaraabeybandara](https://github.com/Dulsaraabeybandara)
